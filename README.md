@@ -1,0 +1,1 @@
+I will build a basic recipe website which will consist of a main index pace with links to a few recipes. In the future i'll revisit my project to style it up with CSS <3
